@@ -27,6 +27,7 @@ This project was developed by **Johannes Portz Dias**.
 ```bash
 ./build/exec "input.json"
 ```
+Where "input.json" is your json file, without brackets.
 
 ## Building the Test
 1. Navigate to the project directory:
